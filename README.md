@@ -1,2 +1,12 @@
 # wca_tracker
-For inspiration, i like to check in on a few a of my favorite cubers and their stats. Most of these cubers are from the older generation. But they all have inspiring careers. 
+
+wca_tracker is a custom Python program that allows me to track the competition stats of my favorite cubers. With wca_tracker, I can easily view and compare stats.
+Installation and Usage
+
+Background
+ 
+The World Cube Association (WCA) is the governing body for Rubik's cube competitions worldwide. The WCA has been holding competitions since 2003, and has since expanded to include many other puzzle events. wca_tracker allows you to view and compare the stats of top cubers.
+
+Resources
+World Cube Association website[https://www.worldcubeassociation.org/]
+Rubik's cube solving tutorial
